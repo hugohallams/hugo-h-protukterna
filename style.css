@@ -35,7 +35,7 @@ body{
 .produkter{
     display: flex;
     justify-content: center;
-    margin-top: 50
+    margin-top: 50px;
 }
 
 .produkt{
@@ -208,3 +208,7 @@ body{
 
 
 
+.omossp{
+    text-align: center;
+    width: 100%;
+}
